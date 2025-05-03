@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Saya hanya mas-mas biasa yang tertarik dengan dunia edit, menggambar, puisi, sajak, lierasi, sajak, fotografi yang sayapublikasikan di<br><br>- [https://edu.abjad.eu.org](https://edu.abjad.eu.org)<br>- [https://dedi-ir.pages.dev](https://dedi-ir.pages.dev)<br>- [https://dedi-ir.blogspot.com](https://dedi-ir.blogspot.com)</p>
+<p align="left">Saya hanya mas-mas biasa yang tertarik dengan dunia edit, menggambar, puisi, sajak, lierasi, sajak, fotografi yang sayapublikasikan di<br><br>- https://edu.abjad.eu.org<br>- https://dedi-ir.pages.dev<br>- https://dedi-ir.blogspot.com</p>
 
 ###
 
