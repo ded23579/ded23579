@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.instagram.com/ded.dedii"  />
+  <img height="150" src="images/Dedi Ir.Webp"  />
 </div>
 
 ###
