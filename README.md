@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="images/Dedi Ir.Webp"  />
+  <img height="150" src="images/Dedi-Ir.webp"  />
 </div>
 
 ###
