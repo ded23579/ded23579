@@ -46,7 +46,3 @@
 <p align="left"></p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ded23579/ded23579/output/snake.svg" alt="Snake animation" />
-
-###
