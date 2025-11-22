@@ -22,7 +22,7 @@
 <p align="left">Saya hanya mas-mas biasa yang tertarik dengan dunia edit, menggambar, puisi, sajak, lierasi, sajak, fotografi yang sayapublikasikan di<br><br>- <a href="https://edu.abjad.eu.org" target="_blank" rel="noopener">https://edu.abjad.eu.org</a>
 <br>- <a href="https://dedi-ir.pages.dev" target="_blank" rel="noopener">https://dedi-ir.pages.dev</a>
 <br>- <a href="https://dedi-ir.blogspot.com/" target="_blank" rel="noopener">https://dedi-ir.blogspot.com</a>
-<br>- <a href="dedi-ir-page-builder.up.railway.app" target="_blank" rel="noopener">Drag and Drop Page Builder</a></p>
+<br>- <a href="https://dedi-ir-page-builder.up.railway.app" target="_blank" rel="noopener">Drag and Drop Page Builder</a></p>
 
 ###
 
